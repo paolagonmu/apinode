@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <catalog>
+      <element>
+         <categoryId>1</categoryId>
+         <categoryName>Watches</categoryName>
+         <items>
+            <element>
+               <currency>EUR</currency>
+               <itemId>item-identifier-1</itemId>
+               <itemName>Sports Watch</itemName>
+               <price>150</price>
+            </element>
+            <element>
+               <currency>EUR</currency>
+               <itemId>item-identifier-2</itemId>
+               <itemName>Waterproof Sports Watch</itemName>
+               <price>180</price>
+            </element>
+         </items>
+         <itemsCount>2</itemsCount>
+      </element>
+   </catalog>
+</root>
