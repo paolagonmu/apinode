@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "test": "mocha test/prueba"
+    "test": "mocha test/models-test/model-test"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
